@@ -1,0 +1,47 @@
+#article-title {
+  font-family: arial;
+  text-transform: capitalize;
+  color: black;
+  font-style: oblique;
+  text-align: center;
+  background-color: #10a995;
+  font-weight: bold;
+  padding: 25px;
+
+
+}
+h3 {
+  color: #10a995;
+  font-size: 30px;
+}
+.list {
+  font-family: cursive;
+}
+
+body {
+  padding: 40px;
+  padding-right: 40px;
+}
+#Menu {
+
+  color: black;
+  opacity: 0,8;
+  font-weight: bolder;
+  font-size: 35px;
+}
+
+.caption {
+  background-color: #10a995;
+  color: Black;
+  text-align: right;
+}
+
+.photo {
+  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+ -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+ box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+ float: right;
+ width: 100px;
+}
+
+}
